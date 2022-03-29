@@ -1,0 +1,12 @@
+Analogue readings form the potentiometer can be printed onto the Serial monitor at a 9600 baud rate to calibrate the rate of time adjustment. The analogue values 
+from 0-1023 using a 10-bit buffer are described below.
+
+990-1010 will be the default range of values - 
+
+650 and 1023 at the lower and upper limits
+At the extreme ends: >1022 and <660 will be  the fastest rate (for rapidly counting up before the rate can be reduced)
+
+990-value/ 990-650 for the proportion of time:
+then the range will differ from 200-410millisec
+
+Otherwise about 6-7 milli sec for the full countup to 90 mins
