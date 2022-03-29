@@ -16,6 +16,8 @@ https://drive.google.com/drive/folders/1n1djnYTgFjR-FOV9uVbCxuDr0fVyU7DZ?usp=sha
 ![image](https://user-images.githubusercontent.com/93861976/160715375-58279e1b-268f-49c9-972e-a9b9b7d2ec08.png)
 
 
-Some images of the circuit development through the process are also found.
+Some images of the circuit development through the process are also found. 
 
-Please note that running this code is futile without the circuit assembled, therefore is primarily for review purposes.
+**Please note that the 'Code drafts' folder contains prototyping code, that was written over the development of each stage of the clock. The project was executed prior to experience about version control using Github therefore uses a more primitive approach of standard document drafting.**
+
+Please also note that running this code is futile without the circuit assembled, therefore is primarily for review purposes.
